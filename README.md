@@ -1,3 +1,5 @@
+
+<img align="center" width=1000 height =300  src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/GitHub.jpg">
 <h1 align="center">Hi 👋, I'm Khushi Neema</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Data science" width=400 src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">

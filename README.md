@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Khushi Neema</h1>
 
 <img align="right" alt="Data science" width=400 src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
-- 🌱 I’m currently learning **PowerBI**
+<br>
+
+
+-  🌱 I’m currently learning **PowerBI** and **Data Analytics**
 
 - 📝 Know about my experiences [resume](https://drive.google.com/file/d/1rwm84Za7GEullJz1T66aKy1TI_r3a8sR/view?usp=drive_link)
 
@@ -12,6 +15,13 @@
 - 💬 Ask me about **Machine Learning, Natural Language Processing**
 
 - 📫 How to reach me **khushineema12@gmail.com**
+
+
+
+<p align = "justify">
+  
+ <br><br> <br><br><h3 align = "left"> About me : </h3>  Hi, I'm Khushi Neema, a data science enthusiast with a keen interest in exploring various technologies and domains.With a strong foundation in Python, SQL, and R, along with expertise in frameworks like TensorFlow and PyTorch, I have delved into exciting areas such as machine learning, natural language processing, and real-time data processing. Data wrangling and analysis are among my strengths, and I am particularly drawn to the intricacies of working with time series data. If you visit my GitHub profile, you'll find a collection of insightful projects that demonstrate my proficiency in different domains and showcase the cutting-edge tools I've utilized.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
